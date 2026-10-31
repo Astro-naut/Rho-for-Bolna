@@ -66,7 +66,7 @@ Anything unchecked is on our next-steps list, and we'd rather tell you than hide
 - **Data:** we have no real customer data, so the demo runs on a generated funnel and on calls to consenting teammates only. We make no claims about real-world lift yet. We'll measure it with the holdout.
 - **Scale:** we don't scale the calls, we scale the decision. Every stalled user is scored cheaply, and only a small, budget-ranked slice gets a call.
 - **Defensibility:** one customer makes this a feature. Neutrality across analytics and voice vendors, plus outcome data that compounds across customers, makes it a company.
-- **Guardrails:** consent required, DND respected, calling window, a cap per user, instant opt-out, no financial advice, and the agent never denies being an AI when asked. [confirm each is implemented]
+- **Guardrails:** consent required, DND respected, calling window, a cap per user, instant opt-out, no financial advice, no other topic is entertained, strictly business. 
 
 ## Team
 Built by [Amrita](https://drive.google.com/drive/folders/1Ww0zVmUT5Q8ky-qysYiWY_W5Ew_oOkTH?usp=drive_link) and [Pranav](https://drive.google.com/drive/folders/1fflCW0aOeftWQGbk83IMn1Z-8kIpP8_l?usp=drive_link) for the Bolna Buildathon.
