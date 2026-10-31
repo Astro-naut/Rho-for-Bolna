@@ -69,6 +69,6 @@ Anything unchecked is on our next-steps list, and we'd rather tell you than hide
 - **Guardrails:** consent required, DND respected, calling window, a cap per user, instant opt-out, no financial advice, and the agent never denies being an AI when asked. [confirm each is implemented]
 
 ## Team
-Built by Amrita and Pranav [add surnames, links] for the Bolna Buildathon.
+Built by [Amrita](https://drive.google.com/drive/folders/1Ww0zVmUT5Q8ky-qysYiWY_W5Ew_oOkTH?usp=drive_link) and [Pranav](https://drive.google.com/drive/folders/1fflCW0aOeftWQGbk83IMn1Z-8kIpP8_l?usp=drive_link) for the Bolna Buildathon.
 
-Thank you for building the voice layer that made this possible. We'd love your feedback: [contact].
+Thank you for building the voice layer that made this possible. We'd love your feedback, our address - @- samrita262003@gmail.com and pbarthwal90@gmail.com.
