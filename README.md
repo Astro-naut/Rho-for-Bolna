@@ -10,7 +10,7 @@ Fintech apps lose most users during signup. Calling every stalled user is too ex
 **Try it in 90 seconds**
 1. Open the app: https://astro-naut.github.io/Rho-for-Bolna/ (a stand-in for any investing or saving app)
 2. Dashboard: https://rho-for-bolna.vercel.app/
-3. Demo video (3 min): [video link]
+3. Demo video (3 min): Cooking...
 4. Code: You are here already!
 
 ---
